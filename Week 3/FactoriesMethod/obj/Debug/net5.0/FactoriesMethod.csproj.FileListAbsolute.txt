@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\FactoriesMethod\bin\Debug\net5.0\FactoriesMethod.exe
+C:\Users\admin\source\repos\FactoriesMethod\bin\Debug\net5.0\FactoriesMethod.deps.json
+C:\Users\admin\source\repos\FactoriesMethod\bin\Debug\net5.0\FactoriesMethod.runtimeconfig.json
+C:\Users\admin\source\repos\FactoriesMethod\bin\Debug\net5.0\FactoriesMethod.runtimeconfig.dev.json
+C:\Users\admin\source\repos\FactoriesMethod\bin\Debug\net5.0\FactoriesMethod.dll
+C:\Users\admin\source\repos\FactoriesMethod\bin\Debug\net5.0\ref\FactoriesMethod.dll
+C:\Users\admin\source\repos\FactoriesMethod\bin\Debug\net5.0\FactoriesMethod.pdb
+C:\Users\admin\source\repos\FactoriesMethod\obj\Debug\net5.0\FactoriesMethod.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\FactoriesMethod\obj\Debug\net5.0\FactoriesMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\FactoriesMethod\obj\Debug\net5.0\FactoriesMethod.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FactoriesMethod\obj\Debug\net5.0\FactoriesMethod.AssemblyInfo.cs
+C:\Users\admin\source\repos\FactoriesMethod\obj\Debug\net5.0\FactoriesMethod.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FactoriesMethod\obj\Debug\net5.0\FactoriesMethod.dll
+C:\Users\admin\source\repos\FactoriesMethod\obj\Debug\net5.0\ref\FactoriesMethod.dll
+C:\Users\admin\source\repos\FactoriesMethod\obj\Debug\net5.0\FactoriesMethod.pdb
+C:\Users\admin\source\repos\FactoriesMethod\obj\Debug\net5.0\FactoriesMethod.genruntimeconfig.cache
