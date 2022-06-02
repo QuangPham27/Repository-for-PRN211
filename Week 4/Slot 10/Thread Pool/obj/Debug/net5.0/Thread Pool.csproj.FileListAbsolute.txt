@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Thread Pool\obj\Debug\net5.0\Thread Pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Thread Pool\obj\Debug\net5.0\Thread Pool.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Thread Pool\obj\Debug\net5.0\Thread Pool.AssemblyInfo.cs
+C:\Users\admin\source\repos\Thread Pool\obj\Debug\net5.0\Thread Pool.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Thread Pool\bin\Debug\net5.0\Thread Pool.exe
+C:\Users\admin\source\repos\Thread Pool\bin\Debug\net5.0\Thread Pool.deps.json
+C:\Users\admin\source\repos\Thread Pool\bin\Debug\net5.0\Thread Pool.runtimeconfig.json
+C:\Users\admin\source\repos\Thread Pool\bin\Debug\net5.0\Thread Pool.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Thread Pool\bin\Debug\net5.0\Thread Pool.dll
+C:\Users\admin\source\repos\Thread Pool\bin\Debug\net5.0\ref\Thread Pool.dll
+C:\Users\admin\source\repos\Thread Pool\bin\Debug\net5.0\Thread Pool.pdb
+C:\Users\admin\source\repos\Thread Pool\obj\Debug\net5.0\Thread Pool.dll
+C:\Users\admin\source\repos\Thread Pool\obj\Debug\net5.0\ref\Thread Pool.dll
+C:\Users\admin\source\repos\Thread Pool\obj\Debug\net5.0\Thread Pool.pdb
+C:\Users\admin\source\repos\Thread Pool\obj\Debug\net5.0\Thread Pool.genruntimeconfig.cache
