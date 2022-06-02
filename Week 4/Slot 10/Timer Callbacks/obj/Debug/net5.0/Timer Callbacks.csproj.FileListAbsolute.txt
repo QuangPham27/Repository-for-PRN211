@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Timer Callbacks\obj\Debug\net5.0\Timer Callbacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Timer Callbacks\obj\Debug\net5.0\Timer Callbacks.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Timer Callbacks\obj\Debug\net5.0\Timer Callbacks.AssemblyInfo.cs
+C:\Users\admin\source\repos\Timer Callbacks\obj\Debug\net5.0\Timer Callbacks.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Timer Callbacks\bin\Debug\net5.0\Timer Callbacks.exe
+C:\Users\admin\source\repos\Timer Callbacks\bin\Debug\net5.0\Timer Callbacks.deps.json
+C:\Users\admin\source\repos\Timer Callbacks\bin\Debug\net5.0\Timer Callbacks.runtimeconfig.json
+C:\Users\admin\source\repos\Timer Callbacks\bin\Debug\net5.0\Timer Callbacks.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Timer Callbacks\bin\Debug\net5.0\Timer Callbacks.dll
+C:\Users\admin\source\repos\Timer Callbacks\bin\Debug\net5.0\ref\Timer Callbacks.dll
+C:\Users\admin\source\repos\Timer Callbacks\bin\Debug\net5.0\Timer Callbacks.pdb
+C:\Users\admin\source\repos\Timer Callbacks\obj\Debug\net5.0\Timer Callbacks.dll
+C:\Users\admin\source\repos\Timer Callbacks\obj\Debug\net5.0\ref\Timer Callbacks.dll
+C:\Users\admin\source\repos\Timer Callbacks\obj\Debug\net5.0\Timer Callbacks.pdb
+C:\Users\admin\source\repos\Timer Callbacks\obj\Debug\net5.0\Timer Callbacks.genruntimeconfig.cache

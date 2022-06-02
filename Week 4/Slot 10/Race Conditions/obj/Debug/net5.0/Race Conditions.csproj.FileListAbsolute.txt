@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Race Conditions\bin\Debug\net5.0\Race Conditions.exe
+C:\Users\admin\source\repos\Race Conditions\bin\Debug\net5.0\Race Conditions.deps.json
+C:\Users\admin\source\repos\Race Conditions\bin\Debug\net5.0\Race Conditions.runtimeconfig.json
+C:\Users\admin\source\repos\Race Conditions\bin\Debug\net5.0\Race Conditions.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Race Conditions\bin\Debug\net5.0\Race Conditions.dll
+C:\Users\admin\source\repos\Race Conditions\bin\Debug\net5.0\ref\Race Conditions.dll
+C:\Users\admin\source\repos\Race Conditions\bin\Debug\net5.0\Race Conditions.pdb
+C:\Users\admin\source\repos\Race Conditions\obj\Debug\net5.0\Race Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Race Conditions\obj\Debug\net5.0\Race Conditions.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Race Conditions\obj\Debug\net5.0\Race Conditions.AssemblyInfo.cs
+C:\Users\admin\source\repos\Race Conditions\obj\Debug\net5.0\Race Conditions.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Race Conditions\obj\Debug\net5.0\Race Conditions.dll
+C:\Users\admin\source\repos\Race Conditions\obj\Debug\net5.0\ref\Race Conditions.dll
+C:\Users\admin\source\repos\Race Conditions\obj\Debug\net5.0\Race Conditions.pdb
+C:\Users\admin\source\repos\Race Conditions\obj\Debug\net5.0\Race Conditions.genruntimeconfig.cache

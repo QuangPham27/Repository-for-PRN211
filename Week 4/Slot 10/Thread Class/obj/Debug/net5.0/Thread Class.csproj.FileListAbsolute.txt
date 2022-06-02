@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Thread Class\bin\Debug\net5.0\Thread Class.exe
+C:\Users\admin\source\repos\Thread Class\bin\Debug\net5.0\Thread Class.deps.json
+C:\Users\admin\source\repos\Thread Class\bin\Debug\net5.0\Thread Class.runtimeconfig.json
+C:\Users\admin\source\repos\Thread Class\bin\Debug\net5.0\Thread Class.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Thread Class\bin\Debug\net5.0\Thread Class.dll
+C:\Users\admin\source\repos\Thread Class\bin\Debug\net5.0\ref\Thread Class.dll
+C:\Users\admin\source\repos\Thread Class\bin\Debug\net5.0\Thread Class.pdb
+C:\Users\admin\source\repos\Thread Class\obj\Debug\net5.0\Thread Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Thread Class\obj\Debug\net5.0\Thread Class.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Thread Class\obj\Debug\net5.0\Thread Class.AssemblyInfo.cs
+C:\Users\admin\source\repos\Thread Class\obj\Debug\net5.0\Thread Class.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Thread Class\obj\Debug\net5.0\Thread Class.dll
+C:\Users\admin\source\repos\Thread Class\obj\Debug\net5.0\ref\Thread Class.dll
+C:\Users\admin\source\repos\Thread Class\obj\Debug\net5.0\Thread Class.pdb
+C:\Users\admin\source\repos\Thread Class\obj\Debug\net5.0\Thread Class.genruntimeconfig.cache

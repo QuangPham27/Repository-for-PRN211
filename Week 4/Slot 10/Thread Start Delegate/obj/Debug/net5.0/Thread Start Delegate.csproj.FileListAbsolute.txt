@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Thread Start Delegate\bin\Debug\net5.0\Thread Start Delegate.exe
+C:\Users\admin\source\repos\Thread Start Delegate\bin\Debug\net5.0\Thread Start Delegate.deps.json
+C:\Users\admin\source\repos\Thread Start Delegate\bin\Debug\net5.0\Thread Start Delegate.runtimeconfig.json
+C:\Users\admin\source\repos\Thread Start Delegate\bin\Debug\net5.0\Thread Start Delegate.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Thread Start Delegate\bin\Debug\net5.0\Thread Start Delegate.dll
+C:\Users\admin\source\repos\Thread Start Delegate\bin\Debug\net5.0\ref\Thread Start Delegate.dll
+C:\Users\admin\source\repos\Thread Start Delegate\bin\Debug\net5.0\Thread Start Delegate.pdb
+C:\Users\admin\source\repos\Thread Start Delegate\obj\Debug\net5.0\Thread Start Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Thread Start Delegate\obj\Debug\net5.0\Thread Start Delegate.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Thread Start Delegate\obj\Debug\net5.0\Thread Start Delegate.AssemblyInfo.cs
+C:\Users\admin\source\repos\Thread Start Delegate\obj\Debug\net5.0\Thread Start Delegate.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Thread Start Delegate\obj\Debug\net5.0\Thread Start Delegate.dll
+C:\Users\admin\source\repos\Thread Start Delegate\obj\Debug\net5.0\ref\Thread Start Delegate.dll
+C:\Users\admin\source\repos\Thread Start Delegate\obj\Debug\net5.0\Thread Start Delegate.pdb
+C:\Users\admin\source\repos\Thread Start Delegate\obj\Debug\net5.0\Thread Start Delegate.genruntimeconfig.cache
