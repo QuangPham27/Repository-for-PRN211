@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Enumarating Assemblies\bin\Debug\net5.0\Enumarating Assemblies.exe
+C:\Users\admin\source\repos\Enumarating Assemblies\bin\Debug\net5.0\Enumarating Assemblies.deps.json
+C:\Users\admin\source\repos\Enumarating Assemblies\bin\Debug\net5.0\Enumarating Assemblies.runtimeconfig.json
+C:\Users\admin\source\repos\Enumarating Assemblies\bin\Debug\net5.0\Enumarating Assemblies.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Enumarating Assemblies\bin\Debug\net5.0\Enumarating Assemblies.dll
+C:\Users\admin\source\repos\Enumarating Assemblies\bin\Debug\net5.0\ref\Enumarating Assemblies.dll
+C:\Users\admin\source\repos\Enumarating Assemblies\bin\Debug\net5.0\Enumarating Assemblies.pdb
+C:\Users\admin\source\repos\Enumarating Assemblies\obj\Debug\net5.0\Enumarating Assemblies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Enumarating Assemblies\obj\Debug\net5.0\Enumarating Assemblies.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Enumarating Assemblies\obj\Debug\net5.0\Enumarating Assemblies.AssemblyInfo.cs
+C:\Users\admin\source\repos\Enumarating Assemblies\obj\Debug\net5.0\Enumarating Assemblies.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Enumarating Assemblies\obj\Debug\net5.0\Enumarating Assemblies.dll
+C:\Users\admin\source\repos\Enumarating Assemblies\obj\Debug\net5.0\ref\Enumarating Assemblies.dll
+C:\Users\admin\source\repos\Enumarating Assemblies\obj\Debug\net5.0\Enumarating Assemblies.pdb
+C:\Users\admin\source\repos\Enumarating Assemblies\obj\Debug\net5.0\Enumarating Assemblies.genruntimeconfig.cache
