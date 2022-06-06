@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\File Class Demonstration 02\bin\Debug\net5.0\File Class Demonstration 02.exe
+C:\Users\admin\source\repos\File Class Demonstration 02\bin\Debug\net5.0\File Class Demonstration 02.deps.json
+C:\Users\admin\source\repos\File Class Demonstration 02\bin\Debug\net5.0\File Class Demonstration 02.runtimeconfig.json
+C:\Users\admin\source\repos\File Class Demonstration 02\bin\Debug\net5.0\File Class Demonstration 02.runtimeconfig.dev.json
+C:\Users\admin\source\repos\File Class Demonstration 02\bin\Debug\net5.0\File Class Demonstration 02.dll
+C:\Users\admin\source\repos\File Class Demonstration 02\bin\Debug\net5.0\ref\File Class Demonstration 02.dll
+C:\Users\admin\source\repos\File Class Demonstration 02\bin\Debug\net5.0\File Class Demonstration 02.pdb
+C:\Users\admin\source\repos\File Class Demonstration 02\obj\Debug\net5.0\File Class Demonstration 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\File Class Demonstration 02\obj\Debug\net5.0\File Class Demonstration 02.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\File Class Demonstration 02\obj\Debug\net5.0\File Class Demonstration 02.AssemblyInfo.cs
+C:\Users\admin\source\repos\File Class Demonstration 02\obj\Debug\net5.0\File Class Demonstration 02.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\File Class Demonstration 02\obj\Debug\net5.0\File Class Demonstration 02.dll
+C:\Users\admin\source\repos\File Class Demonstration 02\obj\Debug\net5.0\ref\File Class Demonstration 02.dll
+C:\Users\admin\source\repos\File Class Demonstration 02\obj\Debug\net5.0\File Class Demonstration 02.pdb
+C:\Users\admin\source\repos\File Class Demonstration 02\obj\Debug\net5.0\File Class Demonstration 02.genruntimeconfig.cache
